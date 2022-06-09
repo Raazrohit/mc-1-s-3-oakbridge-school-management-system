@@ -10,20 +10,7 @@ public class OakBridgeSchool {
         return new int[-1];
     }
 
-    public int calculateAverageScienceMarks (int[] science)
-    {
-        return 0;
-    }
-
-    public int calculateAverageSocialMarks (int[] social)
-    {
-        return 0;
-    }
-    public int calculateAverageMathMarks (int[] math) {
-        return 0;
-    }
-
-    // Write the logic inside the method to calculate the grade based on the math mark of the student
+   // Write the logic inside the method to calculate the grade based on the math mark of the student
     public char findGradeInMath(int math){
         char mathGrade = '\u0000';
 
