@@ -74,8 +74,8 @@ public class OakBridgeSchoolTest {
         assertEquals('B',oakBridgeSchool.findGradeInMath(81));
         assertEquals('C',oakBridgeSchool.findGradeInMath(73));
         assertEquals('D',oakBridgeSchool.findGradeInMath(64));
-        assertEquals('E',oakBridgeSchool.findGradeInMath(54));
-        assertEquals('E',oakBridgeSchool.findGradeInMath(44));
+        assertEquals('F',oakBridgeSchool.findGradeInMath(54));
+        assertEquals('F',oakBridgeSchool.findGradeInMath(44));
         assertEquals('F',oakBridgeSchool.findGradeInMath(13));
     }
     @Test
@@ -84,8 +84,8 @@ public class OakBridgeSchoolTest {
         assertEquals('B',oakBridgeSchool.findGradeInScience(80));
         assertEquals('C',oakBridgeSchool.findGradeInScience(70));
         assertEquals('D',oakBridgeSchool.findGradeInScience(60));
-        assertEquals('E',oakBridgeSchool.findGradeInScience(50));
-        assertEquals('E',oakBridgeSchool.findGradeInScience(40));
+        assertEquals('F',oakBridgeSchool.findGradeInScience(50));
+        assertEquals('F',oakBridgeSchool.findGradeInScience(40));
         assertEquals('F',oakBridgeSchool.findGradeInScience(20));
     }
     @Test
@@ -94,8 +94,8 @@ public class OakBridgeSchoolTest {
         assertEquals('B',oakBridgeSchool.findGradeInEnglish(88));
         assertEquals('C',oakBridgeSchool.findGradeInEnglish(77));
         assertEquals('D',oakBridgeSchool.findGradeInEnglish(64));
-        assertEquals('E',oakBridgeSchool.findGradeInEnglish(51));
-        assertEquals('E',oakBridgeSchool.findGradeInEnglish(48));
+        assertEquals('F',oakBridgeSchool.findGradeInEnglish(51));
+        assertEquals('F',oakBridgeSchool.findGradeInEnglish(48));
         assertEquals('F',oakBridgeSchool.findGradeInEnglish(34));
     }
 
